@@ -17,7 +17,7 @@
     "email": "raynos2@gmail.com"
   },
   "dependencies": {
-    "cuid": "^1.2.4",
+    "cuid": "^2.1.0",
     "ev-store": "^7.0.0",
     "global": "^4.2.1",
     "individual": "^2.0.0",
@@ -26,7 +26,7 @@
     "xtend": "^2.2.0"
   },
   "devDependencies": {
-    "cuid": "^1.2.4",
+    "cuid": "^2.1.0",
     "event-sinks": "~1.0.1",
     "istanbul": "^0.2.6",
     "jshint": "^2.5.0",
